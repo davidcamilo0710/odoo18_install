@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################################################################################
 # ODOO INSTALLER SCRIPT (GENERIC) - Ready for GitHub / Reuse
-# Author: Tu Nombre
+# Author: David C. Muñoz
 # Version: Odoo 18.0 (Compatible con EE y CE)
 # -----------------------------------------------------------------------------------------------
 # Este script instala Odoo con PostgreSQL, NGINX (opcional), Certbot (opcional) y Wkhtmltopdf.
